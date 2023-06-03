@@ -1,0 +1,61 @@
+{
+
+    "pizzas": [
+        {
+            "id": 1,
+            "name": "HAMLET",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685739923/hamlet_bjdepb.jpg",
+            "precio": 23000,
+            "descripcion": "Pollo desmechado, maíz tierno, tocineta ahumada."
+        },
+        {
+            "id": 2,
+            "name": "VELEÑA",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740401/vele%C3%B1a_sjszky.jpg",
+            "precio": 26000,
+            "descripcion": "Delicioso bocadillo en trozos."
+        },
+        {
+            "id": 3,
+            "name": "ROMA",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740091/roma_ssu2aw.jpg",
+            "precio": 30000,
+            "descripcion": "Jamón, salami, chorizo, cábano y pollo desmechado."
+        },
+        {
+            "id": 4,
+            "name": "HAWAIANA",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685739960/hawaina_hqmwsd.jpg",
+            "precio": 28000,
+            "descripcion": "Jamon y trozos de piña."
+        },
+        {
+            "id": 5,
+            "name": "SIENA",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740112/siena_qdohgz.jpg",
+            "precio": 28000,
+            "descripcion": "Pollo desmechado y champiñones"  
+        },
+        {
+            "id": 6,
+            "name": "TURÍN",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740356/turin_zgb325.jpg",
+            "precio": 27000,
+            "descripcion": "Pollo desmechado y tocineta ahumada."
+        },
+        {
+            "id": 7,
+            "name": "PAISA",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685739986/paisa_gsyvoi.jpg",
+            "precio": 25000,
+            "descripcion": "Chorizo, maíz tierno, maduro calado y tocineta"
+        }
+    ],
+
+    "usuarios": [
+       {
+        "user": "luna",
+        "password": "sombrilla"
+       }
+    ]
+}

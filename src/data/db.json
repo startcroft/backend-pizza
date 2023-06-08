@@ -1,10 +1,19 @@
 {
-
     "pizzas": [
         {
             "id": 1,
             "name": "HAMLET",
-            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685739923/hamlet_bjdepb.jpg",
+            "image": [
+                {
+                    "photo1": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685739923/hamlet_bjdepb.jpg"
+                },
+                {
+                    "photo2": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686234326/Hamlet2_vwcsa5.jpg"
+                },
+                {
+                    "photo3": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686234331/Hamlet3_fi0yz1.jpg"
+                }
+            ],
             "precio": 23000,
             "descripcion": "Pollo desmechado, maíz tierno, tocineta ahumada."
         },
@@ -34,7 +43,7 @@
             "name": "SIENA",
             "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740112/siena_qdohgz.jpg",
             "precio": 28000,
-            "descripcion": "Pollo desmechado y champiñones"  
+            "descripcion": "Pollo desmechado y champiñones"
         },
         {
             "id": 6,
@@ -51,11 +60,10 @@
             "descripcion": "Chorizo, maíz tierno, maduro calado y tocineta"
         }
     ],
-
     "usuarios": [
-       {
-        "user": "luna",
-        "password": "sombrilla"
-       }
+        {
+            "user": "luna",
+            "password": "sombrilla"
+        }
     ]
 }

@@ -20,42 +20,102 @@
         {
             "id": 2,
             "name": "VELEÑA",
-            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740401/vele%C3%B1a_sjszky.jpg",
+            "image": [
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740401/vele%C3%B1a_sjszky.jpg"
+                },
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686246715/vele%C3%B1a2_gjbc7j.jpg"
+                },
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686246718/vele%C3%B1a3_fouetu.jpg"
+                }
+            ],
             "precio": 26000,
             "descripcion": "Delicioso bocadillo en trozos."
         },
         {
             "id": 3,
             "name": "ROMA",
-            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740091/roma_ssu2aw.jpg",
+            "image": [
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740091/roma_ssu2aw.jpg"
+                },
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686247086/roma2_o9qzpm.jpg"
+                },
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686247089/roma3_cx2ihq.jpg"
+                }
+            ],
             "precio": 30000,
             "descripcion": "Jamón, salami, chorizo, cábano y pollo desmechado."
         },
         {
             "id": 4,
             "name": "HAWAIANA",
-            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685739960/hawaina_hqmwsd.jpg",
+            "image": [
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685739960/hawaina_hqmwsd.jpg"
+                },
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686247262/hawaina2_jpzxf5.jpg"
+                },
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686247265/hawaiana3_dy4u9h.jpg"
+                }
+            ],
             "precio": 28000,
             "descripcion": "Jamon y trozos de piña."
         },
         {
             "id": 5,
             "name": "SIENA",
-            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740112/siena_qdohgz.jpg",
+            "image": [
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740112/siena_qdohgz.jpg"
+                },
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686247430/siena2_azum5q.jpg"
+                },
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686247433/siena3_nlyfh3.jpg"
+                }
+            ],
             "precio": 28000,
             "descripcion": "Pollo desmechado y champiñones"
         },
         {
             "id": 6,
             "name": "TURÍN",
-            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740356/turin_zgb325.jpg",
+            "image": [
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740356/turin_zgb325.jpg"
+                },
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686272367/turin2_d7bbp0.jpg"
+                },
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686272370/turin3_pjgeht.jpg"
+                }
+            ],
             "precio": 27000,
             "descripcion": "Pollo desmechado y tocineta ahumada."
         },
         {
             "id": 7,
             "name": "PAISA",
-            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685739986/paisa_gsyvoi.jpg",
+            "image": [
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685739986/paisa_gsyvoi.jpg"
+                },
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686272707/paisa2_jhelmc.jpg"
+                },
+                {
+                    "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686272711/paisa3_bsfu6o.jpg"
+                }
+            ],
             "precio": 25000,
             "descripcion": "Chorizo, maíz tierno, maduro calado y tocineta"
         }

@@ -5,12 +5,15 @@
             "name": "HAMLET",
             "image": [
                 {
+                    "id": 1,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685739923/hamlet_bjdepb.jpg"
                 },
                 {
+                    "id": 2,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686234326/Hamlet2_vwcsa5.jpg"
                 },
                 {
+                    "id": 3,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686234331/Hamlet3_fi0yz1.jpg"
                 }
             ],
@@ -22,12 +25,15 @@
             "name": "VELEÑA",
             "image": [
                 {
+                    "id": 1,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740401/vele%C3%B1a_sjszky.jpg"
                 },
                 {
+                    "id": 2,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686246715/vele%C3%B1a2_gjbc7j.jpg"
                 },
                 {
+                    "id": 3,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686246718/vele%C3%B1a3_fouetu.jpg"
                 }
             ],
@@ -39,12 +45,15 @@
             "name": "ROMA",
             "image": [
                 {
+                    "id": 1,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740091/roma_ssu2aw.jpg"
                 },
                 {
+                    "id": 2,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686247086/roma2_o9qzpm.jpg"
                 },
                 {
+                    "id": 3,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686247089/roma3_cx2ihq.jpg"
                 }
             ],
@@ -56,12 +65,15 @@
             "name": "HAWAIANA",
             "image": [
                 {
+                    "id": 1,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685739960/hawaina_hqmwsd.jpg"
                 },
                 {
+                    "id": 2,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686247262/hawaina2_jpzxf5.jpg"
                 },
                 {
+                    "id": 3,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686247265/hawaiana3_dy4u9h.jpg"
                 }
             ],
@@ -73,12 +85,15 @@
             "name": "SIENA",
             "image": [
                 {
+                    "id": 1,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740112/siena_qdohgz.jpg"
                 },
                 {
+                    "id":2,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686247430/siena2_azum5q.jpg"
                 },
                 {
+                    "id": 3,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686247433/siena3_nlyfh3.jpg"
                 }
             ],
@@ -90,12 +105,15 @@
             "name": "TURÍN",
             "image": [
                 {
+                    "id": 1,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685740356/turin_zgb325.jpg"
                 },
                 {
+                    "id": 2,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686272367/turin2_d7bbp0.jpg"
                 },
                 {
+                    "id": 3,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686272370/turin3_pjgeht.jpg"
                 }
             ],
@@ -107,12 +125,15 @@
             "name": "PAISA",
             "image": [
                 {
+                    "id": 1,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1685739986/paisa_gsyvoi.jpg"
                 },
                 {
+                    "id": 2,
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686272707/paisa2_jhelmc.jpg"
                 },
                 {
+                   "id": 3, 
                     "photo": "https://res.cloudinary.com/dumnucrl0/image/upload/v1686272711/paisa3_bsfu6o.jpg"
                 }
             ],

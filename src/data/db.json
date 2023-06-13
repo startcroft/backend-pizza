@@ -18,7 +18,9 @@
                 }
             ],
             "precio": 23000,
-            "descripcion": "Pollo desmechado, maíz tierno, tocineta ahumada."
+            "descripcion": "Pollo desmechado, maíz tierno, tocineta ahumada.",
+            "reviews": "45 reviews",
+            "opinions": "de las mejores pizzas que he probado; super recomendada"
         },
         {
             "id": 2,
@@ -38,7 +40,9 @@
                 }
             ],
             "precio": 26000,
-            "descripcion": "Delicioso bocadillo en trozos."
+            "descripcion": "Delicioso bocadillo en trozos.",
+            "reviews": "17 reviews",
+            "opinions": "una pizza muy diferente y llamativa, es increible!"
         },
         {
             "id": 3,
@@ -58,7 +62,9 @@
                 }
             ],
             "precio": 30000,
-            "descripcion": "Jamón, salami, chorizo, cábano y pollo desmechado."
+            "descripcion": "Jamón, salami, chorizo, cábano y pollo desmechado.",
+            "reviews": "48 reviews",
+            "opinions": "una excelente combinacion!"
         },
         {
             "id": 4,
@@ -78,7 +84,9 @@
                 }
             ],
             "precio": 28000,
-            "descripcion": "Jamon y trozos de piña."
+            "descripcion": "Jamon y trozos de piña.",
+            "reviews": "33 reviews",
+            "opinions": "de las mejores pizzas que he probado; super recomendada!"
         },
         {
             "id": 5,
@@ -98,7 +106,9 @@
                 }
             ],
             "precio": 28000,
-            "descripcion": "Pollo desmechado y champiñones"
+            "descripcion": "Pollo desmechado y champiñones",
+            "reviews": "68 reviews",
+            "opinions": "el envio fue rapido y las pizzas deliciosas!"
         },
         {
             "id": 6,
@@ -118,7 +128,9 @@
                 }
             ],
             "precio": 27000,
-            "descripcion": "Pollo desmechado y tocineta ahumada."
+            "descripcion": "Pollo desmechado y tocineta ahumada.",
+            "reviews": "30 reviews",
+            "opinions": "todas las pizzas me han gustado y esta no fue la excepcion"
         },
         {
             "id": 7,
@@ -138,13 +150,31 @@
                 }
             ],
             "precio": 25000,
-            "descripcion": "Chorizo, maíz tierno, maduro calado y tocineta"
+            "descripcion": "Chorizo, maíz tierno, maduro calado y tocineta",
+            "reviews": "60 reviews",
+            "opinions": "la mejor pizza que he probado, con un buen balance de sabores!"
         }
     ],
     "usuarios": [
         {
+            "id": 1,
             "user": "luna",
             "password": "sombrilla"
+        },
+        {
+            "id": 2,
+            "user": "santiago",
+            "password": "santi3453"
+        },
+        {
+            "id": 3,
+            "user": "gesiel",
+            "password": "gesi590"
+        },
+        {
+            "id": 4,
+            "user": "luisa",
+            "password": "lu1490"
         }
     ]
 }
